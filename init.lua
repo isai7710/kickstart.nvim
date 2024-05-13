@@ -74,8 +74,8 @@ require 'keymaps'
 -- [[ Basic Autocommands ]]
 require 'autocmds'
 
--- [[ Bootstrap `lazy.nvim` plugin manager and install plugins ]]
-require 'plugins'
+-- [[ Bootstrap `lazy.nvim` plugin manager and install/configure plugins ]]
+require 'lazy_config'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
