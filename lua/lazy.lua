@@ -37,7 +37,7 @@ require("lazy").setup({
   require 'plugins/todo-comments',
   require 'plugins/mini',
   require 'plugins/treesitter',
-  require 'plugins/nvim-tree',
+  -- require 'plugins/nvim-tree',
 
   --  Here are some example plugins that I've included in the Kickstart repository.
   --  Uncomment any of the lines below to enable them (you will need to restart nvim).
